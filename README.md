@@ -5,10 +5,10 @@ this is a boiler template for Go React full stack app
 
 ```bash
 # Clone the repository
-git clone https://github.com/orstendium/react-golang-full-stack
+git clone https://github.com/TAMRAA/goReactSetup
 
 # Go inside the directory
-cd react-golang-full-stack
+cd goReactSetup
 
 # Install dependencies
 npm install
